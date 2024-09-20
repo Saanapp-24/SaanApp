@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">SAANAPP</string>
-    <string name="ingresar">Ingresar</string>
-    <string name="correo">Correo</string>
-    <string name="contrase_a">Contraseña</string>
-    <string name="lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_phasellus_sit_amet_lectus_a_mi_lobortis_iaculis_mauris_odio_tortor_accumsan_vel_gravida_sit_amet_malesuada_a_tortor_cras_mattis_augue_eget_dolor_vestibulum_id_euismod_diam_rutrum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet lectus a mi lobortis iaculis. Mauris odio tortor, accumsan vel gravida sit amet, malesuada a tortor. Cras mattis augue eget dolor vestibulum, id euismod diam rutrum.</string>
-</resources>

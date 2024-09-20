@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "653771045010",
+    "firebase_url": "https://saanapp-c9ace-default-rtdb.firebaseio.com",
+    "project_id": "saanapp-c9ace",
+    "storage_bucket": "saanapp-c9ace.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653771045010:android:7e902d4ff01e5b9e9d4e4b",
+        "android_client_info": {
+          "package_name": "com.SaAnAPP.saanapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzC7_GUs_ghZhQdbP7sDm885PluN9vEW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653771045010:android:a886fce8c02581b39d4e4b",
+        "android_client_info": {
+          "package_name": "com.example.saanapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzC7_GUs_ghZhQdbP7sDm885PluN9vEW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
